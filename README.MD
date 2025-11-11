@@ -44,21 +44,24 @@ const me = {
 
 ## What I'm Working On
 
-- Building [fleui.com](https://fleui.com) - A modern AI Interviewer for restaurants
-- Developing [protadoc.com](https://protadoc.com) - An AI platform for doctors
+- Building <a href="https://fleui.com" target="_blank">fleui.com</a> - A modern AI Interviewer for restaurants
+- Developing <a href="https://protadoc.com" target="_blank">protadoc.com</a> - An AI platform for doctors
 - Learning new technologies and best practices
 - Looking to collaborate on open source projects
 - Ask me about web development, APIs, or anything tech
-- How to reach me: [baltazar.garciacan@gmail.com](mailto:baltazar.garciacan@gmail.com)
+- How to reach me: <a href="mailto:baltazar.garciacan@gmail.com" target="_blank">baltazar.garciacan@gmail.com</a>
 
 
 ## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baltazargc)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baltazar.garciacan@gmail.com)
+<a href="https://www.linkedin.com/in/baltazargc" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:baltazar.garciacan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
@@ -68,6 +71,6 @@ const me = {
 
 **"Code is like humor. When you have to explain it, it's bad."  Cory House**
 
-From [baltgc](https://github.com/baltgc)
+From <a href="https://github.com/baltgc" target="_blank">baltgc</a>
 
 </div>
