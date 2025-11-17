@@ -46,7 +46,7 @@ const me = {
 
 - Building <a href="https://fleui.com" target="_blank">fleui.com</a> - A modern AI Interviewer for restaurants
 - Developing <a href="https://protadoc.com" target="_blank">protadoc.com</a> - An AI platform for doctors
-- <a href="https://baltgc.vercel.app" target="_blank">baltgc.vercel.app</a>
+- <a href="https://baltazargarcia.vercel.app" target="_blank">baltazargarcia.vercel.app</a>
 - Learning new technologies and best practices
 - Looking to collaborate on open source projects
 - Ask me about web development, APIs, or anything tech
