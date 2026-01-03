@@ -44,14 +44,13 @@ const me = {
 
 ## What I'm Working On
 
-- Building <a href="https://fleui.com" target="_blank">fleui.com</a> - A modern AI Interviewer for restaurants
-- Developing <a href="https://protadoc.com" target="_blank">protadoc.com</a> - An AI platform for doctors
-- <a href="https://baltazargarcia.vercel.app" target="_blank">baltazargarcia.vercel.app</a>
-- Learning new technologies and best practices
-- Looking to collaborate on open source projects
-- Ask me about web development, APIs, or anything tech
-- How to reach me: <a href="mailto:baltazar.garciacan@gmail.com" target="_blank">baltazar.garciacan@gmail.com</a>
-
+* Founder of <a href="https://fleui.com" target="_blank">Fleui</a> — a software boutique focused on building AI-powered and custom digital solutions
+* Developing <a href="https://protadoc.com" target="_blank">Protadoc</a> — an AI platform for doctors
+* Personal website & portfolio: <a href="https://baltazargarcia.vercel.app" target="_blank">baltazargarcia.vercel.app</a>
+* Learning new technologies and applying best practices
+* Open to collaborating on open source projects
+* Ask me about web development, APIs, or software architecture
+* How to reach me: <a href="mailto:baltazar.garciacan@gmail.com">[baltazar.garciacan@gmail.com](mailto:baltazar.garciacan@gmail.com)</a>
 
 ## Let's Connect
 
