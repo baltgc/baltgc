@@ -1,11 +1,3 @@
-# Hi, I'm Me
-
-<div align="center">
-
-**Welcome to my digital space on the internet**
-
-</div>
-
 ## About Me
 
 I'm a passionate developer who believes in building things that matter. This repository is a collection of thoughts, experiments, and projects that define who I am in the tech world.
