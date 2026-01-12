@@ -61,8 +61,6 @@ const me = {
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."  Cory House**
-
 From <a href="https://github.com/baltgc" target="_blank">baltgc</a>
 
 </div>
