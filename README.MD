@@ -37,7 +37,6 @@ const me = {
 ## What I'm Working On
 
 * Founder of <a href="https://fleui.com" target="_blank">Fleui</a> — a software boutique focused on building AI-powered and custom digital solutions
-* Developing <a href="https://protadoc.com" target="_blank">Protadoc</a> — an AI platform for doctors
 * Personal website & portfolio: <a href="https://baltazargarcia.vercel.app" target="_blank">baltazargarcia.vercel.app</a>
 * Learning new technologies and applying best practices
 * Open to collaborating on open source projects
